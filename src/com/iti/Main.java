@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String[] fileDestinations = {"src/com/iti/cities.csv",
-                "src/com/iti/countries.csv"};
+        String[] fileDestinations = {"cities.csv",
+                "countries.csv"};
         LinkCityCountry linkCityCountry = new LinkCityCountry();
         linkCityCountry.returnCity(fileDestinations);
         boolean flag = true;
