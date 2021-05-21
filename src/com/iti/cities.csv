@@ -1,0 +1,27 @@
+Code,City Name,Continent,Surface Area,Population,Captial
+0,Alexandria,Africa,,4870000,FALSE
+4,Manchester,Europe,,2705000,FALSE
+0,Cairo,Africa,,19372000,TRUE
+1,Medinah,Asia,,1180770,FALSE
+3,Paris,Europe,,11020000,TRUE
+1,Jeddah,Asia,,3976000,FALSE
+0,Shubra Al Khaymah,Africa,,1025569,FALSE
+3,Toulouse,Europe,,968638,FALSE
+1,Riyadh,Asia,,6881000,TRUE
+4,Birmingham,Europe,,2897303,FALSE
+0,Giza,Africa,,3021542,FALSE
+4,Newcastle,Europe,,1650000,FALSE
+1,Mecca,Asia,,1700000,FALSE
+2,Valencia,Europe,,794288,FALSE
+1,Ad Dammam,Asia,,903312,FALSE
+2,Barcelona,Europe,,4588000,FALSE
+0,Halwan,Africa,,619293,FALSE
+2,Sevilla,Europe,,1212045,FALSE
+3,Marseille,Europe,,870018,FALSE
+2,Zaragoza,Europe,,649404,FALSE
+0,Al Mahallah Al Kubra,Africa,,543271,FALSE
+3,Nice,Europe,,1006402,FALSE
+3,Rennes,Europe,,727357,FALSE
+4,London,Europe,,10979000,TRUE
+2,Madrid,Europe,,3266126,TRUE
+4,Leeds,Europe,,1901934,FALSE
